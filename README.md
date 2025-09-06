@@ -29,19 +29,6 @@ Clicking these buttons will **smoothly scroll** to the respective section.
 3. Open the `index.html` file in a web browser.  
 4. Use the navigation buttons to explore the different sections.  
 
----
-
-## Screenshots
-*(Add screenshots here if you want to show how it looks.)*
-
----
-
-## Future Improvements
-- Highlight active section when scrolling.  
-- Add more interactive visuals to simulate how colorblindness looks.  
-- Make buttons glow/change colors on hover.  
-
-
 
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
